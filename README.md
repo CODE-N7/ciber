@@ -18,7 +18,7 @@
 ---
 
 - 👨‍💻 As a Cybersecurity and Programming enthusiast, I'm constantly learning and exploring new technologies to enhance my skills.
-- 💬 Ask me about my experience with Cybersecurity practices and Software Development.
+- 💬 Ask me about my experience with Cybersecurity practices and progrmacion.
 - 🌱 I’m currently diving deeper into _[Cybersecurity](https://www.coursera.org/browse/information-technology/cybersecurity)_ and _[Programming](https://www.codecademy.com/catalog/subject/computer-science)_.
 
 ## 🛠 &nbsp;Tech Stack
@@ -60,8 +60,15 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-| ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-blue?style=for-the-badge&logo=hackthebox&logoColor=white) <br> **Penetration Testing & Vulnerability Evolution** | ![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-blue?style=for-the-badge&logo=forensic_science&logoColor=white) <br> **Digital Forensics & Investigation** | ![Malware & Cyber Attacks](https://img.shields.io/badge/Malware_Cyber_Attacks-blue?style=for-the-badge&logo=fortinet&logoColor=white) <br> **Malware Threats & Cyber Attacks** |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+<p align="center">
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
+</p>
+
+
+
+
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
