@@ -17,8 +17,6 @@
 
 ---
 
----
-
 - 👨‍💻 As a Cybersecurity and Programming enthusiast, I'm constantly learning and exploring new technologies to enhance my skills.
 - 💬 Ask me about my experience with Cybersecurity practices and Software Development.
 - 🌱 I’m currently diving deeper into _[Cybersecurity](https://www.coursera.org/browse/information-technology/cybersecurity)_ and _[Programming](https://www.codecademy.com/catalog/subject/computer-science)_.
