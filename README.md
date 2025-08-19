@@ -60,11 +60,9 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-<p align="center">
-  <img height="150" width="150" src="https://es.vecteezy.com/arte-vectorial/25463781-un-misterioso-y-peligroso-hacker-con-binario-codigo-antecedentes-vector-ilustracion">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://es.vecteezy.com/arte-vectorial/25463781-un-misterioso-y-peligroso-hacker-con-binario-codigo-antecedentes-vector-ilustracion">
-</p>
+| ![](https://img.shields.io/badge/Penetration_Testing-1E3A8A?style=for-the-badge&logoColor=white) <br> **Penetration Testing & Vulnerability Evolution** | ![](https://img.shields.io/badge/Digital_Forensics-1E3A8A?style=for-the-badge&logoColor=white) <br> **Digital Forensics & Investigation** | ![](https://img.shields.io/badge/Malware_%26_Cyber_Attacks-1E3A8A?style=for-the-badge&logoColor=white) <br> **Malware Threats & Cyber Attacks** |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
