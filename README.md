@@ -8,5 +8,3 @@
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 ![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/arjuncvinod?style=social)<img src="https://komarev.com/ghpvc/?username=arjuncvinod" alt="" />
-
-<picture><img src="https://www.segurilatam.com/wp-content/uploads/sites/5/2022/12/ciberseguridad-global.jpg" width = 170px align="center"></picture> <br> **About Me**
