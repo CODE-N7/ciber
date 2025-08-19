@@ -61,9 +61,9 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 <p align="center">
-  <img height="150" width="150" src="https://www.administracionpublicadigital.es/files/202310/escudo-seguridad.png">
+  <img height="150" width="150" src="https://es.vecteezy.com/arte-vectorial/25463781-un-misterioso-y-peligroso-hacker-con-binario-codigo-antecedentes-vector-ilustracion">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://www.administracionpublicadigital.es/files/202310/escudo-seguridad.png">
+  <img height="150" width="150" src="https://es.vecteezy.com/arte-vectorial/25463781-un-misterioso-y-peligroso-hacker-con-binario-codigo-antecedentes-vector-ilustracion">
 </p>
 
 <p align="center">
