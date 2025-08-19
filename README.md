@@ -17,9 +17,11 @@
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+---
+
+- 👨‍💻 As a Cybersecurity and Programming enthusiast, I'm constantly learning and exploring new technologies to enhance my skills.
+- 💬 Ask me about my experience with Cybersecurity practices and Software Development.
+- 🌱 I’m currently diving deeper into _[Cybersecurity](https://www.coursera.org/browse/information-technology/cybersecurity)_ and _[Programming](https://www.codecademy.com/catalog/subject/computer-science)_.
 
 ## 🛠 &nbsp;Tech Stack
 
