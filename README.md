@@ -16,13 +16,12 @@
 </p>
 
 ---
-
-👨‍💻 - Passionate about Cybersecurity and Programming.
-🔐 - Exploring new technologies to enhance my skills.
-💻 - Developing innovative solutions through coding.
-🌱 - Constantly learning about security practices.
-🛡️ - Protecting systems and data with advanced techniques.
-🚀 - Seeking new challenges to grow in the digital world.
+👨‍💻 Passionate about Cybersecurity and Programming.
+🔐 Exploring new technologies to enhance my skills.
+💻 Developing innovative solutions through coding.
+🌱 Constantly learning about security practices.
+🛡️ Protecting systems and data with advanced techniques.
+🚀 Seeking new challenges to grow in the digital world.
 
 ## 🛠 &nbsp;Tech Stack
 
