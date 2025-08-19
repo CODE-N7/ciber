@@ -61,19 +61,15 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 <p align="center">
+  <img height="150" width="150" src="https://www.administracionpublicadigital.es/files/202310/escudo-seguridad.png">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://www.administracionpublicadigital.es/files/202310/escudo-seguridad.png">
+</p>
+
+<p align="center">
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
-</p>
-
-
-
-
-
-<p align="center">
-  <img height="150" width="150" src="https://www.administracionpublicadigital.es/files/202310/escudo-seguridad.png">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Govindsingh9447&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://www.administracionpublicadigital.es/files/202310/escudo-seguridad.png">
 </p>
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=GovindSingh9447&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
