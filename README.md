@@ -5,4 +5,3 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=welcome_to_my_profil" alt="Headline" />
     </div>  
 <p align="center"><a href="">Portafolio↗️</a></p>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
