@@ -70,6 +70,16 @@
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
 </p>
 
+#### 📜 Certifications and Achievements
+
+![ISO 27001](https://img.shields.io/badge/ISO_27001-1E3A8A?style=for-the-badge&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1E3A8A?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-1E3A8A?style=for-the-badge&logoColor=white)
+![Social Engineering](https://img.shields.io/badge/Social_Engineering-1E3A8A?style=for-the-badge&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-1E3A8A?style=for-the-badge&logoColor=white)
+![WiFi Network Auditing](https://img.shields.io/badge/WiFi_Network_Auditing-1E3A8A?style=for-the-badge&logoColor=white)
+
+
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=GovindSingh9447&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 
